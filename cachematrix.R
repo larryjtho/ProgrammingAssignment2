@@ -1,7 +1,6 @@
 ## Functions that cache the inverse of a matrix
 ##
-## Create a special "matrix", which is a list containing
-## a function to
+## Create a special "matrix", which is a list containing a function to
 ##   - set the value of the matrix
 ##   - get the value of the matrix
 ##   - set the value of the inverse matrix
